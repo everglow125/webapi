@@ -1,0 +1,17 @@
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\obj\Debug\WebApiDemoTests.csprojResolveAssemblyReference.cache
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\WebApiDemoTests.dll
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\WebApiDemoTests.pdb
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\WebApiDemo.dll
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\System.Web.Mvc.dll
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\System.Web.Optimization.dll
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\System.Web.Http.Tracing.dll
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\Newtonsoft.Json.dll
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\WebApiDemo.pdb
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\System.Web.Mvc.xml
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\System.Web.Http.Tracing.xml
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\Newtonsoft.Json.xml
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\bin\Debug\zh-Hans\System.Web.Http.Tracing.resources.dll
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\obj\Debug\WebApiDemoTests.dll
+E:\GitFile\webapi\WebApiDemo\WebApiDemoTests\obj\Debug\WebApiDemoTests.pdb

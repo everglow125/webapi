@@ -1,0 +1,6 @@
+E:\GitFile\webapi\WebApiDemo\WebApiClient\bin\Debug\WebApiClient.exe
+E:\GitFile\webapi\WebApiDemo\WebApiClient\bin\Debug\WebApiClient.pdb
+E:\GitFile\webapi\WebApiDemo\WebApiClient\bin\Debug\Newtonsoft.Json.dll
+E:\GitFile\webapi\WebApiDemo\WebApiClient\obj\Debug\WebApiClient.csprojResolveAssemblyReference.cache
+E:\GitFile\webapi\WebApiDemo\WebApiClient\obj\Debug\WebApiClient.exe
+E:\GitFile\webapi\WebApiDemo\WebApiClient\obj\Debug\WebApiClient.pdb

@@ -1,0 +1,9 @@
+E:\GitFile\webapi\WebApiDemo\WebApiHost\obj\Debug\WebApiHost.csprojResolveAssemblyReference.cache
+E:\GitFile\webapi\WebApiDemo\WebApiHost\bin\Debug\WebApiHost.exe
+E:\GitFile\webapi\WebApiDemo\WebApiHost\bin\Debug\WebApiHost.pdb
+E:\GitFile\webapi\WebApiDemo\WebApiHost\bin\Debug\System.Web.Mvc.dll
+E:\GitFile\webapi\WebApiDemo\WebApiHost\bin\Debug\Newtonsoft.Json.dll
+E:\GitFile\webapi\WebApiDemo\WebApiHost\bin\Debug\System.Web.Mvc.xml
+E:\GitFile\webapi\WebApiDemo\WebApiHost\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\GitFile\webapi\WebApiDemo\WebApiHost\obj\Debug\WebApiHost.exe
+E:\GitFile\webapi\WebApiDemo\WebApiHost\obj\Debug\WebApiHost.pdb
